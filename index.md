@@ -1,9 +1,8 @@
 
-<!DOCTYPE html>
 <html>
 <body>
 
-<h2>HTML Forms</h2>
+<h2>Login</h2>
 
 <form action="/action_page.php">
   <label for="user">Username:</label><br>
