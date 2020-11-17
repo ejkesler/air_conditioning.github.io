@@ -8,9 +8,9 @@
 <form action="/action_page.php">
   <label for="user">Username:</label><br>
   <input type="text" id="user" name="user" value="username"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
-  <input type="submit" value="Submit">
+  <label for="pass">Password:</label><br>
+  <input type="text" id="pass" name="pass" value="password"><br><br>
+  <input type="submit" value="Login">
 </form> 
 
 <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
