@@ -4,5 +4,5 @@
 
 <p><a href="student">Student Input</a></p>
 <p><a href="staff">Staff Input</a></p>
-<p><a href="https://coolmathgames.com">Priority list</a></p>
+<p><a href="index">Priority list</a></p>
 <p><a href="coolmathgames.com">Logout</a></p>
