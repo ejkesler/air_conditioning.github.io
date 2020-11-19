@@ -9,7 +9,7 @@
   <input type="text" id="user" name="user" value="username"><br>
   <label for="pass">Password:</label><br>
   <input type="text" id="pass" name="pass" value="password"><br><br>
-  <a href="https://ejkesler.github.io/air_conditioning.github.io/main_login.html"><input type="submit" value="Login">
+  <a href="https://ejkesler.github.io/air_conditioning.github.io/main_login.html"><img src="button.png" style="width:142px;height:42px;"></a>
 </form> 
 </body>
 </html>
