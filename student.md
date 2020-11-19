@@ -8,7 +8,7 @@
 <input type="text" id="name" name="SID" maxlength="9" size="10">
   <p> </p>
 <label for="Position">Opinion:</label>
-<input type="text" id="name" name="Position" maxlength="200" size="10">
+<input type="text" id="name" name="Position" maxlength="2000" size="10">
   <p> <p/>
   
-  <a href="home"><img src="home.png" style="width:342px;height:82px;"></a>
+  <a href="home"><img src="home.png" style="width:242px;height:82px;"></a>
