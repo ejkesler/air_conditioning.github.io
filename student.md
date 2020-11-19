@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Student Input</h1>
-<label for="Title">Name : </label>
+<label for="Title">Dorm : </label>
 <input type="text" id="name" name="Title" maxlength="1000" size="10">
   <p> </p>
 <label for="SID">Student ID: </label>
@@ -10,3 +10,5 @@
 <label for="Position">Opinion:</label>
 <input type="text" id="name" name="Position" maxlength="200" size="10">
   <p> <p/>
+  
+  <a href="https://ejkesler.github.io/air_conditioning.github.io/main_login"><img src="button.jpg" style="width:342px;height:82px;"></a>
