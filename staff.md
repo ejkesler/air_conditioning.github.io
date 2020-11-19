@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Staff Input</h1>
-<label for="Title">Name ad Title: </label>
+<label for="Title">Name: </label>
 <input type="text" id="name" name="Title" maxlength="1000" size="10">
   <p> </p>
 <label for="Res Hall Opinion">Res Hall: </label>
