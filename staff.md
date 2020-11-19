@@ -10,3 +10,9 @@
 <label for="Position">Opinion:</label>
 <input type="text" id="name" name="Position" maxlength="1000" size="10">
   <p> <p/>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
