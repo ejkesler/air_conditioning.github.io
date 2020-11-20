@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Air Conditioning Priority List</h2>
+
+<ol>
+  <li>Baker</li>
+  <li>Residence Hall B</li>
+  <li>Kate Gleason</li>
+  <li>Residence Hall C</li>
+  <li>James E. Booth</li>
+</ol>
