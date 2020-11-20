@@ -10,5 +10,4 @@
 <label for="Position">Opinion:</label>
 <input type="text" id="name" name="Position" maxlength="2000" size="10">
   <p> <p/>
-  
-  <a href="home"><img src="home.png" style="width:242px;height:82px;"></a>
+<a href="https://ejkesler.github.io/air_conditioning.github.io/home"><img src="home.png" style="width:120px;height:50px;"></a>
